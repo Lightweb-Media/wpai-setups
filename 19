@@ -1,0 +1,249 @@
+{
+    "setup": {
+        "options": [{
+                "key": "cachify",
+                "value": {
+                    "without_ids": "",
+                    "without_agents": "0",
+                    "use_apc": 0,
+                    "compress_html": "2",
+                    "reset_on_comment": "1",
+                    "cache_expires": "4",
+                    "only_guests": "1"
+                }
+            },
+            {
+                "key": "aj_method",
+                "value": "defer"
+            },
+            {
+                "key": "aj_enabled_logged",
+                "value": "1"
+            },
+            {
+                "key": "exclude",
+                "value": "aj_jquery"
+            },
+            {
+                "key": "aj_enabled",
+                "value": "1"
+            },
+            {
+                "key": "aj_autoptimize_method",
+                "value": "async"
+            },
+            {
+                "key": "wpseo",
+                "value": {
+                    "ms_defaults_set": false,
+                    "version": "13.3",
+                    "disableadvanced_meta": true,
+                    "ryte_indexability": true,
+                    "baiduverify": "",
+                    "googleverify": "",
+                    "msverify": "",
+                    "yandexverify": "",
+                    "site_type": "",
+                    "has_multiple_authors": "",
+                    "environment_type": "",
+                    "content_analysis_active": true,
+                    "keyword_analysis_active": true,
+                    "enable_admin_bar_menu": true,
+                    "enable_cornerstone_content": true,
+                    "enable_xml_sitemap": true,
+                    "enable_text_link_counter": true,
+                    "show_onboarding_notice": false,
+                    "first_activated_on": false,
+                    "myyoast-oauth": false
+                }
+            },
+            {
+                "key": "wpseo_titles",
+                "value": {
+                    "title_test": 0,
+                    "forcerewritetitle": false,
+                    "separator": "sc-dash",
+                    "title-home-wpseo": "%%sitename%% %%page%% %%sep%% %%sitedesc%%",
+                    "title-author-wpseo": "%%name%%, Author at %%sitename%% %%page%%",
+                    "title-archive-wpseo": "%%date%% %%page%% %%sep%% %%sitename%%",
+                    "title-search-wpseo": "You searched for %%searchphrase%% %%page%% %%sep%% %%sitename%%",
+                    "title-404-wpseo": "Page not found %%sep%% %%sitename%%",
+                    "metadesc-home-wpseo": "",
+                    "metadesc-author-wpseo": "",
+                    "metadesc-archive-wpseo": "",
+                    "rssbefore": "",
+                    "rssafter": "The post %%POSTLINK%% appeared first on %%BLOGLINK%%.",
+                    "noindex-author-wpseo": false,
+                    "noindex-author-noposts-wpseo": true,
+                    "noindex-archive-wpseo": true,
+                    "disable-author": true,
+                    "disable-date": true,
+                    "disable-post_format": true,
+                    "disable-attachment": true,
+                    "is-media-purge-relevant": false,
+                    "breadcrumbs-404crumb": "Error 404: Page not found",
+                    "breadcrumbs-display-blog-page": false,
+                    "breadcrumbs-boldlast": false,
+                    "breadcrumbs-archiveprefix": "Archive f\u00fcr",
+                    "breadcrumbs-enable": true,
+                    "breadcrumbs-home": "Home",
+                    "breadcrumbs-prefix": "",
+                    "breadcrumbs-searchprefix": "Deine Suche f\u00fcr",
+                    "breadcrumbs-sep": "\u00bb",
+                    "website_name": "",
+                    "person_name": "",
+                    "person_logo": "",
+                    "person_logo_id": 0,
+                    "alternate_website_name": "",
+                    "company_logo": "",
+                    "company_logo_id": 0,
+                    "company_name": "",
+                    "company_or_person": "company",
+                    "company_or_person_user_id": false,
+                    "stripcategorybase": true,
+                    "title-post": "%%title%% %%page%% %%sep%% %%sitename%%",
+                    "metadesc-post": "%%Textauszug%%",
+                    "noindex-post": false,
+                    "showdate-post": false,
+                    "display-metabox-pt-post": true,
+                    "post_types-post-maintax": 0,
+                    "title-page": "%%title%% %%page%% %%sep%% %%sitename%%",
+                    "metadesc-page": "%%Textauszug%%",
+                    "noindex-page": false,
+                    "showdate-page": false,
+                    "display-metabox-pt-page": true,
+                    "post_types-page-maintax": 0,
+                    "title-attachment": "%%title%% %%page%% %%sep%% %%sitename%%",
+                    "metadesc-attachment": "",
+                    "noindex-attachment": false,
+                    "showdate-attachment": false,
+                    "display-metabox-pt-attachment": true,
+                    "post_types-attachment-maintax": 0,
+                    "title-tax-category": "%%term_title%% Archives %%page%% %%sep%% %%sitename%%",
+                    "metadesc-tax-category": "",
+                    "display-metabox-tax-category": true,
+                    "noindex-tax-category": true,
+                    "title-tax-post_tag": "%%term_title%% Archives %%page%% %%sep%% %%sitename%%",
+                    "metadesc-tax-post_tag": "",
+                    "display-metabox-tax-post_tag": true,
+                    "noindex-tax-post_tag": true,
+                    "title-tax-post_format": "%%term_title%% Archives %%page%% %%sep%% %%sitename%%",
+                    "metadesc-tax-post_format": "",
+                    "display-metabox-tax-post_format": false,
+                    "noindex-tax-post_format": true,
+                    "taxonomy-category-ptparent": "0",
+                    "taxonomy-post_tag-ptparent": "0",
+                    "taxonomy-post_format-ptparent": "0"
+                }
+            },
+            {
+                "key": "autoptimize_js",
+                "value": "on"
+            },
+            {
+                "key": "autoptimize_html",
+                "value": "on"
+            },
+            {
+                "key": "autoptimize_css",
+                "value": "on"
+            },
+            {
+                "key": "autoptimize_extra_settings",
+                "value": {
+                    "autoptimize_extra_checkbox_field_1": "1",
+                    "autoptimize_extra_text_field_7": "",
+                    "autoptimize_extra_text_field_3": "",
+                    "autoptimize_extra_radio_field_4": "2",
+                    "autoptimize_extra_text_field_2": ""
+                }
+            },
+            {
+                "key": "autoptimize_imgopt_settings",
+                "value": {
+                    "autoptimize_imgopt_checkbox_field_3": "1",
+                    "autoptimize_imgopt_select_field_2": "2",
+                    "autoptimize_imgopt_text_field_5": ""
+                }
+            },
+            {
+                "key": "webp-express-alter-html-options",
+                "value": {
+                    "alter-html-add-picturefill-js": true,
+                    "hooks": "ob",
+                    "bases": {
+                        "uploads": [
+                            "\/var\/www\/html\/wp-content\/uploads",
+                            "http:\/\/localhost:32782\/wp-content\/uploads"
+                        ],
+                        "wp-content": [
+                            "\/var\/www\/html\/wp-content",
+                            "http:\/\/localhost:32782\/wp-content"
+                        ],
+                        "plugins": [
+                            "\/var\/www\/html\/wp-content\/plugins",
+                            "http:\/\/localhost:32782\/wp-content\/plugins"
+                        ],
+                        "themes": [
+                            "\/var\/www\/html\/wp-content\/themes",
+                            "http:\/\/localhost:32782\/wp-content\/themes"
+                        ]
+                    },
+                    "destination-extension": "append",
+                    "only-for-webps-that-exists": false,
+                    "hostname-aliases": [],
+                    "replacement": "picture",
+                    "image-types": 3,
+                    "only-for-webp-enabled-browsers": false,
+                    "destination-folder": "separate",
+                    "destination-structure": "doc-root"
+                }
+            },
+            {
+                "key": "show_avatars",
+                "value": "0"
+            },
+            {
+                "key": "permalink_structure",
+                "value": "\/%postname%\/"
+            }
+        ],
+        "plugins": [{
+                "name": "Async JavaScript",
+                "version": "2.20.03.01",
+                "path": "async-javascript",
+                "file": "async-javascript.php"
+            },
+            {
+                "name": "Autoptimize",
+                "version": "2.6.2",
+                "path": "autoptimize",
+                "file": "autoptimize.php"
+            },
+            {
+                "name": "Cachify",
+                "version": "2.2.4",
+                "path": "cachify",
+                "file": "cachify.php"
+            },
+            {
+                "name": "Smush",
+                "version": "3.6.1",
+                "path": "wp-smushit",
+                "file": "wp-smush.php"
+            },
+            {
+                "name": "WP AutoInstaller",
+                "version": "0.1.0",
+                "path": "wpai_admin-1.02",
+                "file": "wpai.php"
+            },
+            {
+                "name": "Yoast SEO",
+                "version": "13.3",
+                "path": "wordpress-seo",
+                "file": "wp-seo.php"
+            }
+        ]
+    }
+}
