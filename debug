@@ -1,0 +1,12 @@
+{
+    "setup": {
+       
+        "plugins": [{
+                "name": "Query Monitor",
+                "version": "2.20.03.01",
+                "path": "query-monitor",
+                "file": "query-monitor.php"
+            }
+        ]
+    }
+}
