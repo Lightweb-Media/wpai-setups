@@ -5,7 +5,9 @@
                 "name": "Query Monitor",
                 "version": "2.20.03.01",
                 "path": "query-monitor",
-                "file": "query-monitor.php"
+              "slug": "query-monitor",
+                "file": "query-monitor.php",
+            "download_link" : 	"https://downloads.wordpress.org/plugin/query-monitor.3.8.2.zip"
             }
         ]
     }
